@@ -1,0 +1,16 @@
+{
+    "name": "nurmukhamednurkamal/avia-ticket",
+    "description": "This is web-based pet project where I will do Aircraft ticket booking system using PHP",
+    "autoload": {
+        "psr-4": {
+            "Nurmukhamednurkamal\\AviaTicket\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NurikN999",
+            "email": "nurkamalnurmukhamed@gmail.com"
+        }
+    ],
+    "require": {}
+}
